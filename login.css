@@ -1,0 +1,26 @@
+
+section{
+  background-image:linear-gradient(rgba(207, 203, 203, 0.205),#2b333dc5),
+   url(nature.jpg);
+   height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.form{
+  margin-right: 20px;
+  background-color: rgba(246, 241, 241, 0.637);
+  border-radius: 8%;
+
+}
+.logo{
+    width: 320px;
+    justify-content: center;
+   
+}
+.logo img{
+  
+  height: 80px;
+  background-color: #ffffffbd;
+  border-radius: 50px / 45px;
+}
